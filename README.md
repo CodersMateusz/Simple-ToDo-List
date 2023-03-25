@@ -2,13 +2,14 @@
 
 This is very simple ToDo List with just FrontEnd technologies.
 
-The application offers the ability to add and delete tasks.
+The application offers the ability to add, sort and delete tasks.
 
 ## Technologies used
 
 - HTML + CSS
 - JavaScript
 - Bootstrap classes
+- cdnjs.com - sortable
 
 ## Instructions
 

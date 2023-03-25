@@ -50,6 +50,8 @@ resetBtn.addEventListener('click', function() {
   resetBtn.style.display = 'none';
 })
 
-
+new Sortable (toDoList, {
+  animation: 500
+})
 
 
