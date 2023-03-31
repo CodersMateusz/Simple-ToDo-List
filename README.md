@@ -1,4 +1,4 @@
-# BestShop
+# ToDo List
 
 This is very simple ToDo List with just FrontEnd technologies.
 
